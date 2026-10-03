@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": mythossmp1.aternos.me,
+    "ip": Mythossmp1.aternos.me:44269,
     "port": 44269,
     "version": "1.21.1"
   },
